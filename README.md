@@ -1,16 +1,35 @@
-# netflix
+# Netflix Interface Clon
 
-A new Flutter project.
+-> Flutter project to recreate the interface of the netflix home screen (also added integration with youtube)
+<br>
+-> Android emulator of Android Studio with Pixel 3 API 26
+<br>
+-> Edge (Web-javascript)
+<br>
+-> Flutter. 1.26.0-17.2 pre
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Results
+### Android
+<br><br>
+<img src="./planteamiento/1º_home_clon.png" alt="clon home app 1 Android" width=352 height=661>
+<img src="./planteamiento/2º_home_clon.png" alt="clon home app 2 Android" width=352 height=661>
+<br>
+### Web
+<img src="./planteamiento/1º_home_web.PNG" alt="clon home app 1 Web" width=1280 height=700>
+<img src="./planteamiento/2º_home_web.PNG" alt="clon home app 2 Web" width=1280 height=700>
+<br>
+<br>
+## Side By Side Comparison 
+Left->original app
+<br>
+Right->clon app
+<br><br>
+<img src="./planteamiento/1º_home.PNG" alt="original home app" width=352 height=661>
+<img src="./planteamiento/1º_home_clon.png" alt="clon home app" width=352 height=661>
+<br><br>
+<img src="./planteamiento/2º_home.PNG" alt="original home app" width=352 height=661>
+<img src="./planteamiento/2º_home_clon.png" alt="clon home app" width=352 height=661>
+<br><br>
+## Final Result
+<br><br>
+<div align="center"><img src="./planteamiento/Resultado_1.gif" alt="clon home app" width=600 height=889>
